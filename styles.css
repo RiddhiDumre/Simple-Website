@@ -1,0 +1,49 @@
+html{
+    font-family: 'Times New Roman', Times, serif;
+   color: white;
+
+}
+
+footer{
+    border-radius: 5px;
+    margin-top: 50px;
+    background-color: rgba(4, 12, 36, 0.719);
+    width: 100%;
+    height: 100px;
+}
+p{
+   padding-top: 40px;
+}
+body{
+    background-image: url(images/wall.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-blend-mode: multiply;
+}
+a{
+    font-size: 1.5rem;
+    text-decoration:none;
+    font-family: fantasy;
+}
+div{
+    margin: 10px;
+    text-align: center;
+    padding: 50px;
+    border-radius: 10px;
+    background-color:  rgba(4, 12, 36, 0.719);
+
+}
+p1{
+    
+    font-size: 6rem;
+    font-family: fantasy;
+
+
+}
+iframe{
+    border-radius: 20px;
+    margin:30px;
+    border:none;
+}
+
+
